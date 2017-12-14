@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36585F38-8C30-49A9-BDA1-9A0DC61C288B}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilio", "src\Twilio\Twilio.csproj", "{62BB8FE9-99DD-475D-80EB-D2E53C380754}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilio.Test", "test\Twilio.Test\Twilio.Test.csproj", "{DC35107A-F987-47A3-B0BC-7110BA15943C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA9AF052-DBD9-44EF-9D54-6F998D8D3A93}"
+	ProjectSection(SolutionItems) = preProject
+		HowToPublish.txt = HowToPublish.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

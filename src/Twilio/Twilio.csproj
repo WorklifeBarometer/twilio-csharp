@@ -2,7 +2,7 @@
   <PropertyGroup Label="NuGet">
     <TargetFrameworks>net451</TargetFrameworks>
     <IsPackable>true</IsPackable>
-    <PackageId>Twilio</PackageId>
+    <PackageId>WorklifeBarometer.Twilio</PackageId>
     <Description>Twilio REST API helper library</Description>
     <Copyright>Copyright © Twilio</Copyright>
     <AssemblyTitle>Twilio</AssemblyTitle>

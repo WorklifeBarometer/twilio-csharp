@@ -1,0 +1,2 @@
+1. Right-click on "Twilio" project and choose "Pack"
+2. Run .\nuget.exe push -Source "Howdy" -ApiKey VSTS .\Twilio\bin\Debug\WorklifeBarometer.Twilio.5.7.0.nupkg
